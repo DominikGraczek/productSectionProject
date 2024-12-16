@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Basic T-Shirt",
         "description": "A simple, comfortable cotton t-shirt.",
         "size": "M",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Slim Fit Jeans",
         "description": "Stylish and comfortable slim fit jeans.",
         "size": "L",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Leather Jacket",
         "description": "A premium leather jacket for a bold look.",
         "size": "XL",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Cotton Shirt",
         "description": "A breathable and soft cotton shirt.",
         "size": "S",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Denim Skirt",
         "description": "Trendy denim skirt perfect for casual outings.",
         "size": "M",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Sporty Hoodie",
         "description": "Comfy hoodie with a sporty design.",
         "size": "L",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Summer Dress",
         "description": "Light and breezy dress for warm weather.",
         "size": "S",
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Track Pants",
         "description": "Comfortable track pants for sports and leisure.",
         "size": "M",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Floral Blouse",
         "description": "A stylish floral blouse for a chic look.",
         "size": "L",
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Polo Shirt",
         "description": "Classic polo shirt for a smart-casual appearance.",
         "size": "M",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Sweater",
         "description": "Cozy sweater perfect for chilly days.",
         "size": "S",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Cargo Shorts",
         "description": "Durable cargo shorts for outdoor activities.",
         "size": "L",
@@ -133,7 +133,7 @@
     },
     {
         "id": 13,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Maxi Dress",
         "description": "Elegant maxi dress for a formal event.",
         "size": "XL",
@@ -144,7 +144,7 @@
     },
     {
         "id": 14,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Chino Pants",
         "description": "Smart chino pants for a casual look.",
         "size": "M",
@@ -155,7 +155,7 @@
     },
     {
         "id": 15,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Biker Jacket",
         "description": "Tough and durable biker jacket.",
         "size": "S",
@@ -166,7 +166,7 @@
     },
     {
         "id": 16,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Linen Shirt",
         "description": "Breathable and lightweight linen shirt.",
         "size": "M",
@@ -177,7 +177,7 @@
     },
     {
         "id": 17,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Sweatshirt",
         "description": "Comfy sweatshirt for a casual day.",
         "size": "L",
@@ -188,7 +188,7 @@
     },
     {
         "id": 18,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Puffer Jacket",
         "description": "Warm puffer jacket for the winter season.",
         "size": "XL",
@@ -199,7 +199,7 @@
     },
     {
         "id": 19,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Short Sleeve Shirt",
         "description": "Comfortable short sleeve shirt for casual outings.",
         "size": "S",
@@ -210,7 +210,7 @@
     },
     {
         "id": 20,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Jumpsuit",
         "description": "Stylish jumpsuit for a modern look.",
         "size": "M",
@@ -221,7 +221,7 @@
     },
     {
         "id": 21,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Winter Coat",
         "description": "Thick winter coat to keep you warm in the cold.",
         "size": "L",
@@ -232,7 +232,7 @@
     },
     {
         "id": 22,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "V-neck Sweater",
         "description": "V-neck sweater for a relaxed look.",
         "size": "M",
@@ -243,7 +243,7 @@
     },
     {
         "id": 23,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Mini Skirt",
         "description": "Trendy mini skirt for a youthful style.",
         "size": "S",
@@ -254,7 +254,7 @@
     },
     {
         "id": 24,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Tapered Pants",
         "description": "Stylish tapered pants for a modern look.",
         "size": "M",
@@ -265,7 +265,7 @@
     },
     {
         "id": 25,
-        "img_url": "..\\src\\images\\productphoto.svg",
+        "img_url": "./images/productphoto.svg",
         "name": "Blazer",
         "description": "Formal blazer for a sharp, professional look.",
         "size": "L",
