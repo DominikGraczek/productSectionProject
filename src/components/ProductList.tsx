@@ -33,7 +33,7 @@ const ProductList: React.FC<ProductListProps> = ({ filters }) => {
     const [searchQuery, setSearchQuery] = useState<string>("");
 
     useEffect(() => {
-        fetch("src/productdata.json")
+        fetch("/productdata.json")
             .then((response) => response.json())
             .then((data) => setProducts(data));
     }, []);
