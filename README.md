@@ -6,5 +6,8 @@ To run it simply clone this and install modules:
   * npm install @react-icons/all-files --save
 
 And to start server:
-npm run dev
+  * npm run dev
+
+Or you can check it out here:
+  * https://product-section-project.vercel.app
 
